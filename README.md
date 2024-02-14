@@ -1,4 +1,4 @@
-# Personal website
+# C# Website
 An open-source personal website built using ASP.NET
 
 ## Timeline:
