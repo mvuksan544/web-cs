@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/scopedcss/projectbundle/website.bundle.scp.css",
+      "PackagePath": "staticwebassets/website.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.website.props",
+      "PackagePath": "build\\website.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.website.props",
+      "PackagePath": "buildMultiTargeting\\website.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.website.props",
+      "PackagePath": "buildTransitive\\website.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
