@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/scopedcss/projectbundle/website.bundle.scp.css",
-      "PackagePath": "staticwebassets/website.bundle.scp.css"
-    },
-    {
       "Id": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },

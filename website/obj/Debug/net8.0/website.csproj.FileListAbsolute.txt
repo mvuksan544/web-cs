@@ -19,10 +19,7 @@
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.website.props
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.website.props
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
-/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/scopedcss/bundle/website.styles.css
-/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/scopedcss/projectbundle/website.bundle.scp.css
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/website.dll
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/refint/website.dll
 /Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/obj/Debug/net8.0/website.pdb

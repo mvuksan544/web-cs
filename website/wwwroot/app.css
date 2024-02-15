@@ -6,6 +6,19 @@ a, .btn-link {
     color: #006bb7;
 }
 
+.sidebar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.body-content {
+    margin-top: 50px; /* Adjust this value based on the height of your top menu */
+}
+
+
 .btn-primary {
     color: #fff;
     background-color: #1b6ec2;
