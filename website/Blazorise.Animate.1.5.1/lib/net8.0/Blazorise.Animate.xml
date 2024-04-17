@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blazorise.Animate</name>
+    </assembly>
+    <members>
+        <member name="T:Blazorise.Animate.AnchorSide">
+            <summary>
+            Static names of all supported anchor points.
+            </summary>
+        </member>
+        <member name="T:Blazorise.Animate.Animate">
+            <summary>
+            Runs animations for any content places inside of <see cref="T:Blazorise.Animate.Animate"/>. component.
+            </summary>
+        </member>
+        <member name="F:Blazorise.Animate.Animate.manuallyExecuted">
+            <summary>
+            Flag that indicates if animation was manually executed.
+            </summary>
+        </member>
+        <member name="M:Blazorise.Animate.Animate.GetOptions">
+            <summary>
+            Gets the options from global settings.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Blazorise.Animate.Animate.Run">
+            <summary>
+            Runs the animation manually.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.AnimationName">
+            <summary>
+            Gets the animation name.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.EasingName">
+            <summary>
+            Gets the easing name.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.DurationString">
+            <summary>
+            Gets the duration value normalized as string.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.DelayString">
+            <summary>
+            Gets the delay value normalized as string.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.MirrorString">
+            <summary>
+            Gets the mirror flag normalized as string.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.OnceString">
+            <summary>
+            Gets the once flag normalized as string.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.ElementRef">
+            <summary>
+            Gets or sets the reference to the rendered element.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.OptionsAccessor">
+            <summary>
+            Injects the globally configured <see cref="T:Blazorise.Animate.AnimateOptions"/>.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.ElementId">
+            <summary>
+            Gets or sets the animate element id.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Animation">
+            <summary>
+            Gets or sets the animation effect.
+            </summary>
+            <remarks>
+            The list of all supported animations can be found in <see cref="T:Blazorise.Animate.Animations"/> class.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Easing">
+            <summary>
+            Gets or sets the easing effect.
+            </summary>
+            <remarks>
+            The list of all supported easings can be found in <see cref="T:Blazorise.Animate.Easings"/> class.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Duration">
+            <summary>
+            Gets os sets the total duration of the animation.
+            </summary>
+            <remarks>
+            Values from 0 to 3000, with step 50ms.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.DurationMilliseconds">
+            <summary>
+            Gets os sets the total duration of the animation, in milliseconds.
+            </summary>
+            <remarks>
+            Values from 0 to 3000, with step 50ms.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Delay">
+            <summary>
+            Gets os sets the delay of the animation before it runs automatically, or manually.
+            </summary>
+            <remarks>
+            Values from 0 to 3000, with step 50ms.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.DelayMilliseconds">
+            <summary>
+            Gets os sets the delay in milliseconds of the animation before it runs automatically, or manually.
+            </summary>
+            <remarks>
+            Values from 0 to 3000, with step 50ms.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Mirror">
+            <summary>
+            Whether elements should animate out while scrolling past them.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Once">
+            <summary>
+            Whether animation should happen only once - while scrolling down.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Offset">
+            <summary>
+            Shifts the trigger point of the animation.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Anchor">
+            <summary>
+            Element whose offset will be used to trigger animation instead of an actual one.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.AnchorPlacement">
+            <summary>
+            Defines which position of the element regarding to window should trigger the animation.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.OptionsName">
+            <summary>
+            Defines the custom name of the options to get from the configuration.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Options">
+            <summary>
+            Defines the animate options.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Auto">
+            <summary>
+            True if the animation will be executed automatically. Otherwise if false it needs to 
+            be run manually with <see cref="M:Blazorise.Animate.Animate.Run"/> method.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.Attributes">
+            <summary>
+            Captures all the custom attribute that are not part of <see cref="T:Blazorise.Animate.Animate"/> component.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.Animate.ChildContent">
+            <summary>
+            Specifies the content to be rendered inside this <see cref="T:Blazorise.Animate.Animate"/>.
+            </summary>
+        </member>
+        <member name="T:Blazorise.Animate.AnimateOptions">
+            <summary>
+            Defines all the animations settings.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.AnimateOptions.Animation">
+            <summary>
+            Gets or sets the animation effect.
+            </summary>
+            <remarks>
+            The list of all supported animations can be found in <see cref="T:Blazorise.Animate.Animations"/> class.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.AnimateOptions.Easing">
+            <summary>
+            Gets or sets the easing effect.
+            </summary>
+            <remarks>
+            The list of all supported easings can be found in <see cref="T:Blazorise.Animate.Easings"/> class.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.AnimateOptions.Duration">
+            <summary>
+            Gets os sets the total duration of the animation.
+            </summary>
+            <remarks>
+            Values from 0 to 3000, with step 50ms.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.AnimateOptions.Delay">
+            <summary>
+            Gets os sets the delay of the animation before it runs automatically, or manually.
+            </summary>
+            <remarks>
+            Values from 0 to 3000, with step 50ms.
+            </remarks>
+        </member>
+        <member name="P:Blazorise.Animate.AnimateOptions.Mirror">
+            <summary>
+            Whether elements should animate out while scrolling past them.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.AnimateOptions.Once">
+            <summary>
+            Whether animation should happen only once - while scrolling down.
+            </summary>
+        </member>
+        <member name="T:Blazorise.Animate.Animations">
+            <summary>
+            Holds the list of all supported animations.
+            </summary>
+        </member>
+        <member name="T:Blazorise.Animate.Easings">
+            <summary>
+            Holds the list of all supported easings.
+            </summary>
+        </member>
+        <member name="T:Blazorise.Animate.IAnimation">
+            <summary>
+            Defines the animation.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.IAnimation.Name">
+            <summary>
+            Gets the animation name.
+            </summary>
+        </member>
+        <member name="T:Blazorise.Animate.IEasing">
+            <summary>
+            Defines the easing effect.
+            </summary>
+        </member>
+        <member name="P:Blazorise.Animate.IEasing.Name">
+            <summary>
+            Gets the easing name.
+            </summary>
+        </member>
+    </members>
+</doc>

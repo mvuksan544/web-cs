@@ -1,8 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "Wke1JL2xe1nLUUZKhHZ3tiGs7gvZqKfgNri7Z1FyCwr4jbF/baXQyDVoG/AwMS4oaTs0s8gsOB+bmAO2mY6L5g==",
+  "dgSpecHash": "E0ckiJD2Qv1QQkjdJsNpiM9icgx9wdICE2oFLy9MZ7Nm9mNlPFzfh7lvzUy258ppVhh8HjwtgDrV8CLZDOmjPw==",
   "success": true,
   "projectFilePath": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/website.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/milosvuksan/.nuget/packages/blazorise/1.5.1/blazorise.1.5.1.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/blazorise.bootstrap5/1.5.1/blazorise.bootstrap5.1.5.1.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/blazorise.icons.fontawesome/1.5.1/blazorise.icons.fontawesome.1.5.1.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/blazorise.licensing/1.2.0/blazorise.licensing.1.2.0.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.aspnetcore.authorization/8.0.3/microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.aspnetcore.components/8.0.3/microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.aspnetcore.components.analyzers/8.0.3/microsoft.aspnetcore.components.analyzers.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.3/microsoft.aspnetcore.components.forms.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.aspnetcore.components.web/8.0.3/microsoft.aspnetcore.components.web.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.aspnetcore.metadata/8.0.3/microsoft.aspnetcore.metadata.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/microsoft.jsinterop/8.0.3/microsoft.jsinterop.8.0.3.nupkg.sha512",
+    "/Users/milosvuksan/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

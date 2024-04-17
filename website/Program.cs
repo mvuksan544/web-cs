@@ -1,7 +1,14 @@
 using website.Components;
+using Blazorise;
+using Blazorise.Bootstrap5;
+using Blazorise.Icons.FontAwesome;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services
+  .AddBlazorise()
+  .AddBootstrap5Providers()
+  .AddFontAwesomeIcons();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
@@ -19,6 +26,7 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseStaticFiles();
+app.UseStatusCodePagesWithRedirects("/errors/{0}");
 app.UseAntiforgery();
 
 app.MapRazorComponents<App>()
