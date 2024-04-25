@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8cLhHodID2m+Ief0SaBzJQwxDG92TFwqOqwmrAZKOmA=",
+  "Hash": "A2mX76I5taAscsgQJIZ2SKd1bjTOLGSzDXl6i0ZntPc=",
   "Source": "website",
   "BasePath": "_content/website",
   "Mode": "Default",
@@ -1364,25 +1364,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/heiudkjfns.png",
-      "SourceId": "website",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/",
-      "BasePath": "_content/website",
-      "RelativePath": "heiudkjfns.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/heiudkjfns.png"
     },
     {
       "Identity": "/Users/milosvuksan/Desktop/Coding/GIthub repositories/web-cs/website/wwwroot/navbarlogo_small.png",
